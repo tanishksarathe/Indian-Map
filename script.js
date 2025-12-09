@@ -1,4 +1,4 @@
-  const sound = new Audio("/Keyboard Task/asset/mixkit-message-pop-alert-2354.mp3");
+  const sound = new Audio("/asset/mixkit-message-pop-alert-2354.mp3");
 
 function searchMap() {
   const place = document.getElementById("place").value.toLowerCase();
